@@ -5,6 +5,6 @@ class Dog
     @breed = breed 
   end
   
-class.Dog
+class.Dog(Mutt)
   
 end
